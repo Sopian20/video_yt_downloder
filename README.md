@@ -13,3 +13,6 @@
 > pip install -r requirements.txt
 > python yt2.py
 ============DONE=========================
+Github: 
+https://github.com/MristawakalN
+https://github.com/Sopian20
