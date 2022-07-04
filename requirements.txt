@@ -1,0 +1,6 @@
+requests
+pafy
+youtube-dl
+youtube_dl
+qrcode
+Image
